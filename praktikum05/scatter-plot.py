@@ -103,7 +103,7 @@ def scatter_3_variable():
 
     # ringkasan hubungan
     st.subheader('Analisis Hubungan')
-    st.write(f'Grafik Menunjukan antara Suhu, Kelembapan, dan Penjualan Es Krim ** {jenis_eskrim} **')
+    st.write(f'Grafik Menunjukan antara Suhu, Kelembapan, dan Penjualan Es Krim **{jenis_eskrim}**')
 
 
 # routing berdasarkan menu
